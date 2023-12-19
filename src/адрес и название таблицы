@@ -1,0 +1,4 @@
+  адрес: jdbc:mysql://localhost:3306/accessToProduct
+  продукты
+  заказы
+  позиции_заказа
